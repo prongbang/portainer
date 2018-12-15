@@ -1,0 +1,7 @@
+/bin
+/compose
+config.json
+portainer.db
+portainer.key
+portainer.pub
+/tls
